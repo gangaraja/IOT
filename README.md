@@ -1,7 +1,7 @@
 # Welcome to Ganga's Web CV
 
 ## Skill Summary
-   Technical
+   Technical &
    Communication
 
 ## Languagese
